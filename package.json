@@ -1,0 +1,23 @@
+{
+  "name": "tg_bot_101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbuabbosbek/tg_bot_101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbuabbosbek/tg_bot_101/issues"
+  },
+  "homepage": "https://github.com/cbuabbosbek/tg_bot_101#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
