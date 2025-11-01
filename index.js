@@ -8,6 +8,7 @@ bot.on("message", function (msg) {
   const chatId = msg.chat.id;
   const text = msg.text;
 
+  console.log("Start");
   bot.sendMessage(chatId, `Salom --> ${text}`);
   console.log("Xabar keldi");
   console.log(msg);
